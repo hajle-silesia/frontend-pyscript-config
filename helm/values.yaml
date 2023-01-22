@@ -8,7 +8,7 @@ image:
   repository: mtweeman/hajle-silesia_frontend-pyscript
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 2023-01-22t10-48-36z-brewery-8b168cd
+  tag: 2023-01-22t11-19-10z-brewery-c90ba62
 
 imagePullSecrets: []
 nameOverride: ""
